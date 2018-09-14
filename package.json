@@ -1,0 +1,25 @@
+{
+  "name": "webpack_repository",
+  "version": "1.0.0",
+  "description": "练习使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiyang/webpack-learning.git"
+  },
+  "keywords": [
+    "xue2468008"
+  ],
+  "author": "糖少",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiyang/webpack-learning/issues"
+  },
+  "homepage": "https://github.com/weijiyang/webpack-learning#readme",
+  "devDependencies": {
+    "webpack": "^4.19.0"
+  }
+}
