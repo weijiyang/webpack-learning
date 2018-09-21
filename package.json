@@ -1,7 +1,7 @@
 {
   "name": "webpack_repository",
   "version": "1.0.0",
-  "description": "练习使用", 
+  "description": "练习使用",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,7 +29,7 @@
     "babel-preset-react": "^6.24.1",
     "clean-webpack-plugin": "^0.1.19",
     "css-loader": "^1.0.0",
-    "extract-text-webpack-plugin": "^3.0.2",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "html-webpack-plugin": "^3.2.0",
     "postcss-loader": "^3.0.0",
     "style-loader": "^0.23.0",

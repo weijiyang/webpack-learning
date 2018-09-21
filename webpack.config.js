@@ -54,7 +54,7 @@ module.exports = {
 		new HtmlWebpackPlugin({
 			template : __dirname + "/app/index.tmpl.html" 
 		}),
-		// new ExtractTextPlugin("style.css"),
+		new ExtractTextPlugin("style.css"),
 		new UglifyJsPlugin(),
 		new CleanWebpackPlugin('build/*.*' ,{
 			root : __dirname,
